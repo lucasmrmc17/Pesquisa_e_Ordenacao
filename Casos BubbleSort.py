@@ -50,7 +50,7 @@ def GeraListaAleatoria(tam):
 
     return lista
 
-x = [100, 200, 300, 400, 500]
+x = [1000, 2000, 3000, 4000, 5000]
 
 yMelhorCaso = []
 yMedioCaso = []
